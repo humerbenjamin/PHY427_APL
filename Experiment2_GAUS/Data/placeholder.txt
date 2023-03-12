@@ -1,0 +1,4 @@
+camera size: 
+UI-1540LE-M-GL
+640x480 pixels 
+6.656 mm x 5.325 mm
